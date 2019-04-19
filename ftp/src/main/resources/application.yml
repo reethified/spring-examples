@@ -1,0 +1,4 @@
+springexamples:
+    files:
+        - ABC.*
+        - CDE.*
