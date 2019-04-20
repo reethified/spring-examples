@@ -1,4 +1,6 @@
 springexamples:
     files:
-        - ABC.*
-        - CDE.*
+        # Read all files start with ABC
+        - ^ABC.*$
+        # Read all files start with CDE
+        - ^CDE.*$
